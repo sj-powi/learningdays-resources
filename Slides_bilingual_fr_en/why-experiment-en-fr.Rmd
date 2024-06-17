@@ -46,11 +46,11 @@ a column separator -->
 
 ::: {.col data-latex="{0.48\\textwidth}"}
 
-- Qu'est-ce qu'une expérience de politique?
+- Qu'est-ce qu'une expérience de politique ?
 
-- Qui utilise les expériences?
+- Qui utilise les expériences ?
 
-- À quoi servent (ou ne servent pas) les expériences?
+- À quoi servent (ou ne servent pas) les expériences ?
 
 :::
 :::
@@ -690,7 +690,7 @@ Un rôle important pour la recherche descriptive et l'enquête qualitative.
 
 Put beliefs about effects of policies to the test \bigskip
 
-What policies works? \smallskip
+What policies work? \smallskip
 
 $\rightarrow$ let's find out
 
